@@ -1,0 +1,13 @@
+print("-------------")
+print("👩‍💻 Crachá do Dev")
+nome = input("Nome: ")
+idade = input("Idade: ")
+linguagem = input("Linguagem favorita: ")
+emoji = input("Emoji que te representa: ")
+
+print("-------------")
+print(f"Nome: {nome}")
+print(f"Idade: {idade}")
+print(f"Linguagem favorita: {linguagem}")
+print(f"Emoji: {emoji}")
+print("-------------")
